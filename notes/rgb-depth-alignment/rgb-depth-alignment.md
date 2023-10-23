@@ -115,3 +115,13 @@ just for objects: https://developer.apple.com/augmented-reality/object-capture/
 # interesting
 
 https://www.sciencedirect.com/science/article/pii/S2666225623000040
+
+
+# intrinsic matrix
+
+https://developer.apple.com/documentation/avfoundation/avcameracalibrationdata/2881135-intrinsicmatrix
+
+los valores en xyz en el point cloud se calculan con los valores en la matriz
+
+![Alt text](image-3.png)
+
