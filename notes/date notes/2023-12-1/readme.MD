@@ -43,13 +43,13 @@ intentamos hacer el test con el mismo dataset que usaron ellos, pero el codigo d
 El error que se nos presentaba era al intentar evaluar sobre los datos que ellos mismos tenian y que subian a un drive.
 Al realizar la carga con el archivo defaul llamado "chair" e ejecutaba con parametros pres esatblecidos para la red 
 
-![Alt text](imag3.png)
+![Alt text](imag3.PNG)
 
 Tambien se realiza la construccion de el modelo y la separacion de os datos de entrenamiento( Para este caso las vistas)
 
-![Alt text](imag4.png)
+![Alt text](imag4.PNG)
 
 Sin embargo despues de la creacion respectiva de el modelo y de la carga de datos, el codigo nos arroja el siguiente error, que se mantiene en un bucle, el cual no deja permite la ejecucion de la inferencia y la visualizacion de el renderizado.
 
-![Alt text](imag5.png)
+![Alt text](imag5.PNG)
 
